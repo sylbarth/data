@@ -1,0 +1,14 @@
+ROAA          : Return / Assets
+NPLGROSSLOANS : Non Performing Loans / Gross Loans
+PER           : Price Earnings
+CREDITGDP     : Credit / GDP
+GDPG          : Real GDP Growth
+GFCFG         : Gross fixed capital formation growth
+GFCFGDP       : Gross fixed capital formation / GDP
+HFCEG         : Household final consumption expenditure growth
+HFCEGDP       : Household final consumption expenditure / GDP
+CAGDP         : Current Account Balance / GDP
+INFL          : Inflation Rate
+REALRATE      : Real Interest Rate
+DEPRATE       : Deposit Rate
+
