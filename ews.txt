@@ -1,3 +1,4 @@
+PRCRISIS      : 1 if a banking crisis occurs in T+1 (http://documents1.worldbank.org/curated/en/761051468739458460/pdf/multi-page.pdf)
 ROAA          : Return / Assets
 NPLGROSSLOANS : Non Performing Loans / Gross Loans
 PER           : Price Earnings
