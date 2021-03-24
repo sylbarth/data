@@ -1,0 +1,19 @@
+GDP	GDP (current USD, 2018)
+TGDP18	CAGR GDP (%, 2013-2018)
+TGDP23	CAGR GDP (%, 2018-2023)
+GDPPC	GDP per capita (2018, $ PPP)
+HDI	Human Development Index
+INV	Investment / GDP (%, 2018)
+DEBT	Public Debt (% GDP)
+POP17	Total Population 2017 (mn)
+POP23	Total Population 2023 (mn)
+TPOP23	CAGR total pop. (%, 2017-2023)
+URB	Urban pop. (% total pop.)
+TURB25	CAGR urban pop. (%, 2015-2025)
+BCIT25	Nb of cities of 1mn or more inhab. in 2025
+LCIT25	Nb of cities of 500k to 1 mn inhab. in 2025
+START	Business Climate: Starting a Business
+INFRA	Infrastructure Quality
+INSTI	Institution Quality
+COMMO	Commodity Dependance (% exports)
+CORRU	Corruption
