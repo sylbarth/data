@@ -1,0 +1,4 @@
+Amazon, Apple, Microsoft, Facebook, AMD, Alphabet A,
+Macy's, Wells Fargo, Bank of America, IBM, Motorola, Berkshire Hathaway
+Nvidia Corp., JP Morgan Chase & Co., Johnson & Johnson, Visa, 
+Procter & Gamble, Walt Disney, Netflix, Comcast, Salesforce, Pfizer
